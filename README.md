@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammed Saneem</h1>
-<h3 align="center">A Student studying about cybersecurity</h3>
+<h3 align="center">Certified Ethical Hacker</h3>
 
-- 🌱 I’m currently learning **CyberSecurity**
+- 🌱 I’m currently working as **CyberSecurity Engineer**
 
 - 📫 How to reach me **saneem2020@gmail.com**
 
